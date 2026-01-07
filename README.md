@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @jullanggit
-- 👀 I’m interested in: Linux & Rust
-- 🌱 I’m currently learning: whatever seems interesting to me (again, mostly Rust & Linux)
-- 💞️ I’m looking to collaborate on: anything I can get my hands on
+- 👀 I’m interested in Linux & Rust
+- 🌱 I’m currently learning whatever seems interesting to me (again, mostly Rust & Linux)
+- 💞️ I’m looking to collaborate on anything I can get my hands on :)
 - 📫 How to reach me: via email (jullanggit@proton.me) or any other way you can find
-- 😄 Pronouns: He/Him
 - Fun fact: ALL of my code is written with minimal help from generative AI, following the [brain made](https://brainmade.org/) philosophy
 <!---
 jullanggit/jullanggit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
